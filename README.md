@@ -174,17 +174,17 @@ FoodLand is a modern online food ordering platform that connects food lovers wit
 <table>
   <tr>
     <td><img src="screenshots/checkout.png" alt="Checkout" width="400"/><br/><b>Billing Address Form</b></td>
-    <td><img src="screenshots/razorpay.png" alt="Payment" width="400"/><br/><b>Razorpay Payment Gateway</b></td>
+    <td><img src="screenshots/pay.png" alt="Payment" width="400"/><br/><b>Razorpay Payment Gateway</b></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="screenshots/payment-success.png" alt="Success" width="400"/><br/><b>Payment Successful</b></td>
+    <td colspan="2"><img src="screenshots/success.png" alt="Success" width="400"/><br/><b>Payment Successful</b></td>
   </tr>
 </table>
 
 ### 📦 Order Management
 <table>
   <tr>
-    <td><img src="screenshots/orders.png" alt="Orders" width="400"/><br/><b>Order History with Status</b></td>
+    <td><img src="screenshots/order.png" alt="Orders" width="400"/><br/><b>Order History with Status</b></td>
   </tr>
 </table>
 
